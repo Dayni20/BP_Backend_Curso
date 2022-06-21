@@ -1,0 +1,28 @@
+C:\Users\dayni\source\repos\BP_Class_Objetos\BP_Class_Objetos\bin\Debug\netcoreapp3.1\BP_Class_Objetos.exe
+C:\Users\dayni\source\repos\BP_Class_Objetos\BP_Class_Objetos\bin\Debug\netcoreapp3.1\BP_Class_Objetos.deps.json
+C:\Users\dayni\source\repos\BP_Class_Objetos\BP_Class_Objetos\bin\Debug\netcoreapp3.1\BP_Class_Objetos.runtimeconfig.json
+C:\Users\dayni\source\repos\BP_Class_Objetos\BP_Class_Objetos\bin\Debug\netcoreapp3.1\BP_Class_Objetos.runtimeconfig.dev.json
+C:\Users\dayni\source\repos\BP_Class_Objetos\BP_Class_Objetos\bin\Debug\netcoreapp3.1\BP_Class_Objetos.dll
+C:\Users\dayni\source\repos\BP_Class_Objetos\BP_Class_Objetos\bin\Debug\netcoreapp3.1\BP_Class_Objetos.pdb
+C:\Users\dayni\source\repos\BP_Class_Objetos\BP_Class_Objetos\obj\Debug\netcoreapp3.1\BP_Class_Objetos.csproj.AssemblyReference.cache
+C:\Users\dayni\source\repos\BP_Class_Objetos\BP_Class_Objetos\obj\Debug\netcoreapp3.1\BP_Class_Objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dayni\source\repos\BP_Class_Objetos\BP_Class_Objetos\obj\Debug\netcoreapp3.1\BP_Class_Objetos.AssemblyInfoInputs.cache
+C:\Users\dayni\source\repos\BP_Class_Objetos\BP_Class_Objetos\obj\Debug\netcoreapp3.1\BP_Class_Objetos.AssemblyInfo.cs
+C:\Users\dayni\source\repos\BP_Class_Objetos\BP_Class_Objetos\obj\Debug\netcoreapp3.1\BP_Class_Objetos.csproj.CoreCompileInputs.cache
+C:\Users\dayni\source\repos\BP_Class_Objetos\BP_Class_Objetos\obj\Debug\netcoreapp3.1\BP_Class_Objetos.dll
+C:\Users\dayni\source\repos\BP_Class_Objetos\BP_Class_Objetos\obj\Debug\netcoreapp3.1\BP_Class_Objetos.pdb
+C:\Users\dayni\source\repos\BP_Class_Objetos\BP_Class_Objetos\obj\Debug\netcoreapp3.1\BP_Class_Objetos.genruntimeconfig.cache
+C:\Users\dayni\source\repos\BP_Class_Objetos - copia\BP_Class_Objetos\bin\Debug\netcoreapp3.1\BP_Class_Objetos.exe
+C:\Users\dayni\source\repos\BP_Class_Objetos - copia\BP_Class_Objetos\bin\Debug\netcoreapp3.1\BP_Class_Objetos.deps.json
+C:\Users\dayni\source\repos\BP_Class_Objetos - copia\BP_Class_Objetos\bin\Debug\netcoreapp3.1\BP_Class_Objetos.runtimeconfig.json
+C:\Users\dayni\source\repos\BP_Class_Objetos - copia\BP_Class_Objetos\bin\Debug\netcoreapp3.1\BP_Class_Objetos.runtimeconfig.dev.json
+C:\Users\dayni\source\repos\BP_Class_Objetos - copia\BP_Class_Objetos\bin\Debug\netcoreapp3.1\BP_Class_Objetos.dll
+C:\Users\dayni\source\repos\BP_Class_Objetos - copia\BP_Class_Objetos\bin\Debug\netcoreapp3.1\BP_Class_Objetos.pdb
+C:\Users\dayni\source\repos\BP_Class_Objetos - copia\BP_Class_Objetos\obj\Debug\netcoreapp3.1\BP_Class_Objetos.csproj.AssemblyReference.cache
+C:\Users\dayni\source\repos\BP_Class_Objetos - copia\BP_Class_Objetos\obj\Debug\netcoreapp3.1\BP_Class_Objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dayni\source\repos\BP_Class_Objetos - copia\BP_Class_Objetos\obj\Debug\netcoreapp3.1\BP_Class_Objetos.AssemblyInfoInputs.cache
+C:\Users\dayni\source\repos\BP_Class_Objetos - copia\BP_Class_Objetos\obj\Debug\netcoreapp3.1\BP_Class_Objetos.AssemblyInfo.cs
+C:\Users\dayni\source\repos\BP_Class_Objetos - copia\BP_Class_Objetos\obj\Debug\netcoreapp3.1\BP_Class_Objetos.csproj.CoreCompileInputs.cache
+C:\Users\dayni\source\repos\BP_Class_Objetos - copia\BP_Class_Objetos\obj\Debug\netcoreapp3.1\BP_Class_Objetos.dll
+C:\Users\dayni\source\repos\BP_Class_Objetos - copia\BP_Class_Objetos\obj\Debug\netcoreapp3.1\BP_Class_Objetos.pdb
+C:\Users\dayni\source\repos\BP_Class_Objetos - copia\BP_Class_Objetos\obj\Debug\netcoreapp3.1\BP_Class_Objetos.genruntimeconfig.cache
